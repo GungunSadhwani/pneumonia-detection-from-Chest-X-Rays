@@ -4,7 +4,6 @@ A neural network (CNN / MobileNetV2 transfer learning) that classifies chest X-r
 **NORMAL** or **PNEUMONIA**, with Grad-CAM heatmaps showing which regions drove the prediction.
 The dataset is fetched **directly from Kaggle by the code** - no manual download.
 
-> Educational project only. Not a medical device; do not use for real diagnosis.
 
 ## Files
 - `main.py` - everything: Kaggle download, training, evaluation, prediction + Grad-CAM
